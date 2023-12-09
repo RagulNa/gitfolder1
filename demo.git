@@ -1,0 +1,8 @@
+public static void main(String[]args){
+  try{
+  int [] a= {23.3,34.4,67.9};
+  }
+  catch
+  System.out.prinltn(3);
+
+}
